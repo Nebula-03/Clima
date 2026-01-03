@@ -29,8 +29,7 @@ location services, and a modern animated UI.
 
 ## 📱 App Screenshots
 
-![Home Screen](screenshots/weather.jpeg)
-![Permission](screenshots/Location_permision.jpeg)
+![Home Screen](screenshots/weather.jpeg)![Permission](screenshots/Location_permision.jpeg)
 ![City Search](screenshots/search_city.jpeg)
 
 --

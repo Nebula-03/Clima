@@ -1,16 +1,35 @@
-# clima
+# Clima 🌤️ – Weather Forecast Mobile App
 
-A new Flutter project.
+Clima is a Flutter-based mobile application that provides **real-time weather
+information** using the **WeatherAPI.com REST API**.  
+The app supports **global city search** as well as **current location-based
+weather detection** using GPS.
 
-## Getting Started
+This project demonstrates clean Flutter architecture, REST API integration,
+location services, and a modern animated UI.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 Search weather for **any city worldwide**
+- 📍 Fetch current location weather using GPS
+- 🌡 Accurate temperature data in **Celsius**
+- ☁️ Weather condition icons and dynamic messages
+- 🎨 Clean UI with smooth animations
+- ⚡ Real-time API integration
+- 🔁 Refresh weather data on demand
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**
+- **Dart**
+- **WeatherAPI.com** (REST API)
+- **Geolocator** (GPS & location services)
+- **HTTP package** (network requests)
+- **Material UI**
+
+## 📱 App Screenshots
+
+![Home Screen](weather.jpeg)
+![Permission](Location_permision.jpeg)
+![City Search](search_city.jpeg)
+

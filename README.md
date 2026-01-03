@@ -33,3 +33,9 @@ location services, and a modern animated UI.
 ![Permission](Location_permision.jpeg)
 ![City Search](search_city.jpeg)
 
+--
+
+## 👤 Author
+
+**Nikita Mandal**  
+Flutter Developer | UI/UX Enthusiast
